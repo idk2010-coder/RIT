@@ -100,6 +100,22 @@ li.dropdown {
 <audio controls>
 <source src = "C:\Users\mresh\3D Objects\Desktop\Geometry.Dash.v2.204a (1)\Geometry.Dash.v2.204a\Geometry.Dash.v2.204a\Resources\Clutterfunk.mp3" type ="audio/mp3">
 <p>Clutterfunk</p>
+<h2>National Flag</h2>
+<p>Company logo</p>
+<h1>Houses</h1>
+<h2>Small shot gun house</h2>
+<img src = "C:\Users\mresh\OneDrive\Documents\Website\html\images\double shot gun house.jpeg">
+<p><b>Price</b>: 300$
+<br>
+2 bedrooms and 1 bathroom.</p>
+<h2>Classic House</h2>
+<p><b>Price</b>: 50$
+<br>
+2 bedrooms and 2 bathrooms</p>
+<h2>Medium Shotgun House</h2>
+<P><b>Price</b>: 100$
+<br>
+3 bedroom and  2 bathrooms</p>
 <h3>How to find my city</h3>
 <ol>
 <li>Go to Roblox</li>
