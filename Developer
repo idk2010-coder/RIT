@@ -1,0 +1,91 @@
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+<style>
+<title>Developer</title>
+</head>
+<body>
+<h1>Developer News</h1>
+<h2><a href = "https://scratch.mit.edu/projects/1052303546">Mc11</a></h2>
+<table>
+<tr>
+<th>Update name</th>
+<th>Update Info</th>
+<tr>
+<td style ="width:10%">v1</td>
+<td>Introduction to Mc11</td>
+<tr>
+<td>v1.1</td>
+<td>Changed the local disk icon</td>
+<tr>
+<td>v2</td>
+<td>Added McAssist</td>
+<tr>
+<td>v3</td>
+<td>McAssist is now buit in. New Anti-virus software for more protection</td>
+<tr>
+<td>v4</td>
+<td>McAssist: New popup for music.
+<br>
+Widgets: New weather widget.
+<br>
+Quick menu: New battery icon.</td>
+<tr>
+<td>v4.7</td>
+<td>Camera is now supported.</td>
+</tr>
+</table>
+<h2><a hre = "https://scratch.mit.edu/projects/1054454535">VisorOS</a></h2>
+<table>
+<tr>
+<th>Update name</th>
+<th>Update info</th>
+<tr>
+<td>v1</td>
+<td>Welcome to VisorOS</td>
+<tr>
+<td>v2</td>
+<td>The new McAssist.</td>
+<tr>
+<td>v2.9</td>
+<td>Welcome to v2.9:
+<br>
+<b>McAssist</b>:
+<br>
+VPN: Be more secure with BitNetwork.
+<br>
+<b>New Song Popup</b>: When listening to music a pop up will appear.
+<br>
+<b><u>Apps</b></u>:
+<br>
+<b>VisorOS hub</b>: A redesigned visorHub
+<br>
+<b>News</b>: A new news.</td>
+</tr>
+</table>
+<h2><a href = "https://scratch.mit.edu/projects/1056139047">GoOS</a></h2>
+<table>
+<tr>
+<th>Update Name</th>
+<th>Update Info</th>
+<tr>
+<td>v1</td>
+<td>Introduction to GoOS</td>
+<tr>
+<td>v2</td>
+<td>New McAssist. We removed the lockscreen for ease of access. We also removed the fingerprint.</td>
+<tr>
+<td>v2.7</td>
+<td>New people in messaging with emojis.
+<br>
+Connect app can now pair with your phones.
+<br>
+The settings app are also changed.</td>
+</tr>
+</table>
+</body>
+</html>
