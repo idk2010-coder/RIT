@@ -3,20 +3,20 @@
 <style>
 table, th, td {
   border: 1px solid black;
-  border-radius: 10px;
 }
-<style>
+</style>
 <title>Developer</title>
 </head>
 <body>
 <h1>Developer News</h1>
-<h2><a href = "https://scratch.mit.edu/projects/1052303546">Mc11</a></h2>
+<h2>OS</h2>
+<h3><a href = "https://scratch.mit.edu/projects/1052303546">Mc11</a></h3>
 <table>
 <tr>
 <th>Update name</th>
 <th>Update Info</th>
 <tr>
-<td style ="width:10%">v1</td>
+<td>v1</td>
 <td>Introduction to Mc11</td>
 <tr>
 <td>v1.1</td>
@@ -39,7 +39,7 @@ Quick menu: New battery icon.</td>
 <td>Camera is now supported.</td>
 </tr>
 </table>
-<h2><a hre = "https://scratch.mit.edu/projects/1054454535">VisorOS</a></h2>
+<h3><a href = "https://scratch.mit.edu/projects/1054454535">VisorOS</a></h3>
 <table>
 <tr>
 <th>Update name</th>
@@ -67,7 +67,7 @@ VPN: Be more secure with BitNetwork.
 <b>News</b>: A new news.</td>
 </tr>
 </table>
-<h2><a href = "https://scratch.mit.edu/projects/1056139047">GoOS</a></h2>
+<h3><a href = "https://scratch.mit.edu/projects/1056139047">GoOS</a></h3>
 <table>
 <tr>
 <th>Update Name</th>
@@ -85,6 +85,75 @@ VPN: Be more secure with BitNetwork.
 Connect app can now pair with your phones.
 <br>
 The settings app are also changed.</td>
+</tr>
+</table>
+<h2>Apps</h2>
+<h3><a href = "https://scratch.mit.edu/projects/1048651766">T2T</a></h3>
+<table>
+<tr>
+<th>Update name</th>
+<th>Update info</th>
+</tr>
+<tr>
+<td>v1</td>
+<td>Introduction to T2T</td>
+<tr>
+<td>v2</td>
+<td>We added 4 languages (Chinese, Italian, Korean and Russian).</td>
+<tr>
+<td>v2.5</td>
+<td>New design and translation UI and French language.</td>
+<tr>
+<td>v3</td>
+<td>Removed a bug that prevented translation and added sounds and animation. Ability to change costume.</td>
+</tr>
+<tr>
+<td>TranslateOS 4</td>
+<td>Added german language and fixed bugs.</td>
+</tr>
+<tr>
+<td>TranslateOS 4.4</td>
+<td>Added Japanese language.</td>
+</tr>
+</table>
+<h3><a href = "https://scratch.mit.edu/projects/1052611671">InterBot</a></h3>
+<table>
+<tr>
+<th>Update Name</th>
+<th>Update info</th>
+</tr>
+<tr>
+<td colspan = "2">v1</td>
+</tr>
+<tr>
+<td>SearchOS 1.4</td>
+<td>New search button.</td>
+</tr>
+<tr>
+<td>SearchOS 2</td>
+<td>New design theme.</td>
+</tr>
+</table>
+<h3><a href = "https://scratch.mit.edu/projects/1052507528">McGPT</a></h3>
+<table>
+<tr>
+<th>Update name</th>
+<th>Update Info</th>
+</tr>
+<tr>
+<td colspan = "2">IntelligentOS 1</td>
+</tr>
+<tr>
+<td>IntelligentOS 1.4</td>
+<td>Introduction to GPT 4.0</td>
+</tr>
+<tr>
+<td>IntelligentOS 2</td>
+<td>New image GPT and all new design with new chat-bar.</td>
+</tr>
+<tr>
+<td>IntelligentOS 2.3</td>
+<td>New images.</td>
 </tr>
 </table>
 <h5>Questions and answers</h5>
